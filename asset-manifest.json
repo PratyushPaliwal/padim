@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/padim/static/css/main.9a54cfb4.css",
+    "main.js": "/padim/static/js/main.5db88397.js",
+    "static/media/detect.jpg": "/padim/static/media/detect.ffba518437acc08bf3c6.jpg",
+    "static/media/PageBanner.jpg": "/padim/static/media/PageBanner.900a7bd50b0eae76e3ad.jpg",
+    "index.html": "/padim/index.html",
+    "main.9a54cfb4.css.map": "/padim/static/css/main.9a54cfb4.css.map",
+    "main.5db88397.js.map": "/padim/static/js/main.5db88397.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a54cfb4.css",
+    "static/js/main.5db88397.js"
+  ]
+}
